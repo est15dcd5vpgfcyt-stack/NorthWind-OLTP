@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NorthWind.Database/NorthWind.Database.sqlproj" Id="e42fbf99-1382-4d64-a453-4c341ee071c0">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
